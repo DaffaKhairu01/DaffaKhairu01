@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Daffa! 👋
 
-<!--
-**DaffaKhairu01/DaffaKhairu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Informatics Engineering student exploring the intersection of software development, user experience, and data structure. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+*   **Mobile & Web:** React Native, TypeScript, HTML
+*   **Data & Database:** MySQL, SQLiteStudio, RapidMiner
+*   **Design & Modeling:** Blender, Canva
+*   **Environment:** VS Code, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+*   Developing cross-platform mobile applications.
+*   Designing relational database architectures.
+
+### 📫 Let's Connect
+*   **Email:** [Dafkhairu@gmail.com]
